@@ -4,7 +4,7 @@ API REST da rede de lanchonetes **Raízes do Nordeste**, desenvolvida para o Pro
 Atende múltiplos canais (`APP`, `TOTEM`, `BALCAO`, `PICKUP`, `WEB`), com autenticação JWT por perfil, controle de estoque por unidade, pedidos, pagamento **simulado (mock)**, fidelidade e auditoria.
 
 ## Links e evidências
-- Repositório: https://github.com/Mikael-O-hebreu/raizes-do-nordeste-api
+- Repositório: https://github.com/Mikael-O-hebreu/raizes-api
 - Swagger local: http://localhost:8000/docs (contrato exportado em `docs/openapi.json`)
 - Coleção Postman: `postman/raizes-do-nordeste.postman_collection.json`
 - DER e diagramas: pasta `docs/`
